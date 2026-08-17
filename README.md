@@ -23,13 +23,11 @@ Colección personal de fondos de pantalla organizada por temática, pensada para
 - [Landscapes](#landscapes)
 - [Logos](#logos)
 - [Mountains](#mountains)
-- [Nier Automata](#nier-automata)
 - [Pixel Arts](#pixel-arts)
 - [Relaxing](#relaxing)
 - [Samurai](#samurai)
 - [Sci-Fi](#sci-fi)
 - [Sea](#sea)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
 - [Space](#space)
 - [Surfaces](#surfaces)
 - [Trains](#trains)
@@ -157,18 +155,6 @@ Montañas nevadas, acantilados rocosos, lagos de alta montaña y vistas cinemato
 <img src="Mountains/snow_mountains_ai.jpg" alt="Montaña nevada majestuosa" width="300"> <img src="Mountains/mountains2.jpg" alt="Paisaje nocturno de montaña bajo luna llena" width="300"> <img src="Mountains/viking_lake_ai.jpg" alt="Vikingo mirando un lago de montaña en calma" width="300"> <img src="Mountains/firewatch_green_ai.jpg" alt="Bosque y montaña verde estilo Firewatch" width="300">
 
 **[Ver la colección de Mountains](Mountains/)**
-
----
-
-## Nier Automata
-
-Colección de wallpapers de Nier Automata.
-
-#### Preview
-
-<img src="Nier%20Automata/2B_ai.jpeg" alt="2B de Nier Automata" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" alt="Personaje 2B de Nier Automata" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.png" alt="YoRHa No.2 Type B, Nier Automata" width="300"> <img src="Nier%20Automata/nier_automata3.png" alt="Entorno de Nier Automata" width="300">
-
-**[Ver la colección de Nier Automata](Nier%20Automata/)**
 
 ---
 
