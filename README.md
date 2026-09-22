@@ -11,6 +11,16 @@ Colección personal de fondos de pantalla organizada por temática, pensada para
 - 📁 Cada carpeta temática incluye su propio `README.md` con la vista previa de todos sus wallpapers.
 - ⭐ Este proyecto está inspirado en [Joao2Pereira1/Wallpapers](https://github.com/Joao2Pereira1/Wallpapers).
 
+## Rotar wallpapers
+
+Desde PowerShell, situado dentro de la carpeta raíz `Wallpapers`, ejecuta:
+
+```powershell
+py .\rotate_wallpapers.py .
+```
+
+El script selecciona aleatoriamente wallpapers de las carpetas temáticas y reemplaza las imágenes actuales de `Main`. El último `.` indica que la carpeta actual es la raíz del proyecto.
+
 ## Índice
 
 - [Anime](#anime)
